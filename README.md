@@ -3,6 +3,6 @@
 ## Junior Data Scientist  
   
 👩‍🚀 **Dreamer and workaholic**  
-Just graduated, on my way to a career in machine learning 🚀  
+Just graduated, on my way to a career in data analysis 🚀  
   
 **Connect with me:** jenyaeshka@gmail.com
