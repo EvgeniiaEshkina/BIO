@@ -1,6 +1,6 @@
 ### HI! I'm Evgeniia Eshkina  
   
-## Junior Data Scientist  
+## Junior Data Analyst  
   
 👩‍🚀 **Dreamer and workaholic**  
 Just graduated, on my way to a career in data analysis 🚀  
