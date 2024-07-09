@@ -1,4 +1,4 @@
-### HI! I'm Evgeniia Eshkina  
+### HI! I'm Evgeniya Eshkina  
   
 ## Junior Data Analyst  
   
