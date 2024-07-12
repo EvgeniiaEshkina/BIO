@@ -3,6 +3,7 @@
 ## Data Analyst  
   
 👩‍🚀 **Dreamer and workaholic**  
-Making career in data analysis 🚀  
-  
+
+I work with Python, SQL and Power BI.
+
 **Connect with me:** jenyaeshka@gmail.com
