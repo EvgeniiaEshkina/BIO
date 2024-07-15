@@ -1,9 +1,11 @@
-### HI! I'm Evgeniya Eshkina  
-  
-## Data Analyst  
+### HI! I'm Jenya
+# Data Analyst:
+
+- Creating dashboards with Power BI
+- Data modelling and database design
+- Queries and ad-hoc analysis with SQL
+- Data analysis with Python
   
 👩‍🚀 **Dreamer and workaholic**  
-
-I work with Python, SQL and Power BI.
 
 **Connect with me:** jenyaeshka@gmail.com
